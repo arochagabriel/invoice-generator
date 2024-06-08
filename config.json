@@ -1,0 +1,15 @@
+    {
+        "csv_path": "timesheets-2024-05.csv",
+        "template_file": "Invoice_Template.docx",
+        "output_dir": "./",
+        "day_rate_per_week": 100.0,
+        "client": "Client Name",
+        "account_holder": "Account Holder Name",
+        "company_name": "Your Company Name",
+        "company_address": "This is an address",
+        "company_email": "Your Company Email",
+        "routing_number": "Your Routing Number",
+        "swift_bic": "Your SWIFT/BIC",
+        "account_number": "Your Account Number",
+        "wise_address": "Your Wise Address"
+    }
