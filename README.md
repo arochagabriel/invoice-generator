@@ -28,7 +28,7 @@ This Python script generates invoices based on data from a CSV file and a Word d
         "client": "Client Name",
         "account_holder": "Account Holder Name",
         "company_name": "Your Company Name",
-        "company_address": "Premier House\n29 Rutland Street\nLeicester LE1 1RE",
+        "company_address": "Company adress",
         "company_email": "Your Company Email",
         "routing_number": "Your Routing Number",
         "swift_bic": "Your SWIFT/BIC",
